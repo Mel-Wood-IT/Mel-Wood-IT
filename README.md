@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/melissa-wood-251b84320/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
-  <a href="https://github.com/JontySN/JontySN/blob/main/Jontys%20CV%202025.pdf" title="cv">
+  <a href="https://github.com/Mel-Wood-IT/CV/blob/main/CV%20-%20Melissa%20Wood.pdf" title="cv">
   <img src="https://img.shields.io/badge/Resume-666666?style=for-the-badge&logo=microsoft&logoColor=white"   alt="cv"></a> 
 </p>
 
@@ -38,7 +38,9 @@
 > learning new things as I go.
 
 <h2>🌐 Website Projects</h2>
-
+<h4>🔹My Chemical Culture (Group Project) - https://mel-wood-it.github.io/MyChemicalCulture/</h4>
+<br>
+<h4>🔹Hykes Online (Group Project) - https://mel-wood-it.github.io/MyChemicalCulture/</h4>
 
 
 
