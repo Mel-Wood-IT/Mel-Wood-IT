@@ -38,26 +38,7 @@
 > learning new things as I go.
 
 <h2>🌐 Website Projects</h2>
-<h4>🔹My Chemical Culture (Group Project) - https://mel-wood-it.github.io/MyChemicalCulture/</h4>
-<br>
-<h4>🔹Hykes Online (Group Project) - https://mel-wood-it.github.io/MyChemicalCulture/</h4>
+<h4>🔹Hykes Online (Group Project, Year One) - https://mel-wood-it.github.io/HykesOnline/</h4>
+<h4>🔹My Chemical Culture (Group Project, Year Two) - https://mel-wood-it.github.io/MyChemicalCulture/</h4>
 
 
-
-
-
-
-<!--
-**Mel-Wood-IT/Mel-Wood-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
