@@ -15,7 +15,7 @@
 > Thanks for visiting my Profile!
 > 
 > I am currently in my third year studying a Bachelor of Applied Information Technology at Waikato Institute of
-> Technology(Wintec). During my study journey I have gained so much experience and completed many different projects so I am
+> Technology (Wintec). During my study journey I have gained so much experience and completed many different projects so I am
 > using this GitHub page to showcase these projects.
 >
 > I am excited to apply my skills and values in real-world IT challenges and look forward to connecting with professionals and
@@ -40,5 +40,13 @@
 <h2>🌐 Website Projects</h2>
 <h4>🔹Hykes Online (Group Project, Year One) - https://mel-wood-it.github.io/HykesOnline/</h4>
 <h4>🔹My Chemical Culture (Group Project, Year Two) - https://mel-wood-it.github.io/MyChemicalCulture/</h4>
+
+<h2>🌟 Other Projects </h2>
+<h4>🔹Data Structure project (Year Two) - https://github.com/Mel-Wood-IT/DataStructures </h4>
+<h4>🔹Android App Tutorials (Year Three) - https://github.com/Mel-Wood-IT/AndroidApps </h4>
+<h4>🔹Python Projects (Year One) - https://github.com/Mel-Wood-IT/PythonProjects </h4>
+<h4>🔹SQL Database Project (Year One) - https://github.com/Mel-Wood-IT/SQLProject </h4>
+
+> This list is ongoing so I will contiue to add more projects.
 
 
