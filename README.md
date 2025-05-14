@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/melissa-wood-251b84320/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
-  <a href="https://github.com/Mel-Wood-IT/CV/blob/main/CV%20-%20Melissa%20Wood.pdf" title="cv">
+  <a href="https://github.com/Mel-Wood-IT/CV/blob/main/CV.pdf" title="cv">
   <img src="https://img.shields.io/badge/Resume-666666?style=for-the-badge&logo=microsoft&logoColor=white"   alt="cv"></a> 
 </p>
 
