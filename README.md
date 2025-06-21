@@ -41,19 +41,19 @@
 > learning new things as I go.
 
 <h2>🌐 Website Projects</h2>
-<h4>🔹Hykes Online (Group Project, Year One) - https://mel-wood-it.github.io/HykesOnline/</h4>
-<h4>🔹My Chemical Culture (Group Project, Year Two) - https://mel-wood-it.github.io/MyChemicalCulture/</h4>
+<h4>🔹Hykes Online (Group, Year One) - https://mel-wood-it.github.io/HykesOnline/</h4>
+<h4>🔹My Chemical Culture (Group, Year Two) - https://mel-wood-it.github.io/MyChemicalCulture/</h4>
 
 <h2>🌟 Other Projects </h2>
 <h4>🔹Data Structure project (Year Two) - https://github.com/Mel-Wood-IT/DataStructures </h4>
 <h4>🔹Android App Tutorials (Year Three) - https://github.com/Mel-Wood-IT/AndroidApps </h4>
 <h4>🔹Python Projects (Year One) - https://github.com/Mel-Wood-IT/PythonProjects </h4>
 <h4>🔹SQL Database Project (Year One) - https://github.com/Mel-Wood-IT/SQLProject </h4>
-<h4>🔹Quick Response Android App (Group Project, Year Three) - https://github.com/prabhdeep101/QuickResponseApp </h4>
+<h4>🔹Quick Response App (Group, Year Three) - https://github.com/prabhdeep101/QuickResponseApp </h4>
 
 <h2>:video_game: Games Projects </h2>
 <h4>🔹Dangerous Dag The Pirate Plunder (Year Three) - Coming soon </h4>
-<h4>🔹The Road So Far (Year Three) - https://github.com/Mel-Wood-IT/TheRoadSoFar </h4>
+<h4>🔹The Road So Far (Group, Year Three) - https://github.com/Mel-Wood-IT/TheRoadSoFar </h4>
 
 > This list is ongoing so I will contiue to add more projects.
 
