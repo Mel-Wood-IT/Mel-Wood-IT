@@ -14,14 +14,14 @@
 > [!IMPORTANT]
 > Thanks for visiting my Profile!
 > 
-> I am currently in my third year studying a Bachelor of Applied Information Technology at Waikato Institute of
-> Technology (Wintec). During my study journey I have gained so much experience and completed many different projects so I am
-> using this GitHub page to showcase these projects.
+> I recently completed my Bachelor of Applied Information Technology at the Waikato Institute of Technology (Wintec).
+> During my study journey I gained valuable experience across a range of projects, 
+> and this GitHub page is where I showcase the work I am most proud of.
 >
-> I am excited to apply my skills and values in real-world IT challenges and look forward to connecting with professionals and
-> opportunities that align with my passion for technology.
+> I am excited to continue growing as a developer, applying my skills to real world IT challenges, and
+> exploring opportunities that align with my passion for technology and problem solving.
 >
-> If you enjoy my work, feel free to reach out and connect!
+> If you enjoy my work or would like to connect, feel free to reach out. I would love to hear from you!
 
 
 <h2 align="center"> Coding Experience </h2>
