@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to my Profile! </h1>
 
-![Banner](https://github.com/Mel-Wood-IT/Mel-Wood-IT/blob/main/GithubBanner.png)
+![Banner](https://github.com/Mel-Wood-IT/Mel-Wood-IT/blob/main/bannergraduate.jpg)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/melissa-wood-251b84320/" title="LinkedIn">
